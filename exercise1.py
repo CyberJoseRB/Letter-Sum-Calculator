@@ -39,4 +39,4 @@ def name_to_number(name:str) -> int:
 print("What would be the sum of all the letters in your name?")
 yourname = input("What is your name? ")
 result = name_to_number(yourname)
-print(f"The sum of the Letters in your '{yourname}' is {result}. ")
+print(f"The sum of the Letters in your name '{yourname}' is {result}. ")
